@@ -1,0 +1,2 @@
+customer1: Mounika	amount: 750
+customwer2: Ravi	 amount:500customwer2: Priya	 amount:800
